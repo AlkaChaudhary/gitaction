@@ -8,7 +8,7 @@
 Feature in GitHub to create custom Automated Workflows 
 - automate SDLC workflows 
 - implement CI CD DevOps DEMO
-- 
+  
 Step 1 - Signup and Login to GitHub.com 
 
 Step 2 - Create a new Repository 
