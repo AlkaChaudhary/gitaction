@@ -1,5 +1,5 @@
 
-![Logo]([https://ibb.co/QCkpW8k)]
+![Logo](https://ibb.co/QCkpW8k)
 
 
 # GitHub Actions
